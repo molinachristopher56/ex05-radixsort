@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/vc-csv13-spring2019/EX01-HelloWorld-AndrewZambrano.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vc-csv30-spring2019/EX01-HelloWorld.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\vscilab\CLionProjects" />
