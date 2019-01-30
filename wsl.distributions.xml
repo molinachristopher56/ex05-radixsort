@@ -44,6 +44,12 @@
           <executable-path>ubuntu1804.exe</executable-path>
           <presentable-name>Ubuntu 18.04</presentable-name>
         </descriptor>
+        <descriptor>
+          <id>WLINUX</id>
+          <microsoft-id>WLinux</microsoft-id>
+          <executable-path>wlinux.exe</executable-path>
+          <presentable-name>WLinux</presentable-name>
+        </descriptor>
       </set>
     </descriptors>
   </component>
