@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\bin\gdb.exe" />
+      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="0fff1396-4fa2-4b01-97ca-53757ad62671" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
