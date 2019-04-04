@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/vc-csv13-spring2019/EX03-MovieReviews-Part1-AndrewZambrano" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vc-csv30-spring2019/EX04-Shape-rodolfo1005.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\vscilab\CLionProjects" />
