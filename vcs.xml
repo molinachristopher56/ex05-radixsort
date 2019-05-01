@@ -58,6 +58,10 @@
           <option name="url" value="https://github.com/vc-csv19-spring2019/EX02-SimpleMath-travischamness.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vc-csv13-spring2019/EX07-SeparateCompilation-AndrewZambrano.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\vscilab\CLionProjects" />
