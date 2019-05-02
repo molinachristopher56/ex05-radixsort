@@ -6,6 +6,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="bb61d991-ab56-4563-847d-0cd2ffbeaf6d" name="RaspberryPi (bb61d991-ab56-4563-847d-0cd2ffbeaf6d)" url="http:///">
+        <fileTransfer host="10.42.14.76" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
