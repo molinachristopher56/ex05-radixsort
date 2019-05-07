@@ -28,7 +28,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
-          <option name="userName" value="AndrewZambrano" />
+          <option name="userName" value="sumandan" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/vc-csv30-spring2019/EX02-LetterSize-rodolfo1005.git" />
@@ -60,6 +60,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/vc-csv13-spring2019/EX07-SeparateCompilation-AndrewZambrano.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vc-csv30-spring2019/EX06-Files-sumandan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
